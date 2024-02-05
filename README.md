@@ -1,2 +1,2 @@
 # git-MarkDown
-Pugem els exercisis de GIT amb formaty .md
+Pugem els exercisis de GIT amb format .md
