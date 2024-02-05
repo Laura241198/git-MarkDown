@@ -1,1 +1,3 @@
-El flux de treball bàsic amb GIT consisteix en: 1- Fer canvis al repositori. 2- Afegir els canvis a la zona d'intercanvi temporal. 3- Fer un commit dels canvis.
+|El flux de treball bàsic amb GIT consisteix en: 1- Fer canvis al repositori. 2- Afegir els canvis a la zona d'intercanvi temporal. 3- Fer un commit dels canvis.|
+|:----|
+
