@@ -1,0 +1,5 @@
+|Capítol 1: Introducció a GIT|
+|:----|
+|Capítol 2: Fluxe de treball bàsic|
+|Capítol 3: Gestió de branques|
+|Capítol 4: Repositoris remots|
